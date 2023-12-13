@@ -1,7 +1,7 @@
 package com.example.mylibraryspeedtest.core.serverSelector;
 
-import com.example.recorderjava.core.config.SpeedtestConfig;
-import com.example.recorderjava.core.ping.PingStream;
+import com.example.mylibraryspeedtest.core.config.SpeedtestConfig;
+import com.example.mylibraryspeedtest.core.ping.PingStream;
 
 import org.json.JSONArray;
 import org.json.JSONException;

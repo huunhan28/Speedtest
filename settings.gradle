@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RecorderJava"
 include ':app'
-include ':mylibraryspeedtest'

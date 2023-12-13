@@ -58,10 +58,6 @@ import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.example.recorderjava.core.Speedtest;
-import com.example.recorderjava.core.config.SpeedtestConfig;
-import com.example.recorderjava.core.config.TelemetryConfig;
-import com.example.recorderjava.core.serverSelector.TestPoint;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -72,6 +68,10 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Locale;
 
+import com.example.mylibraryspeedtest.core.Speedtest;
+import com.example.mylibraryspeedtest.core.config.SpeedtestConfig;
+import com.example.mylibraryspeedtest.core.config.TelemetryConfig;
+import com.example.mylibraryspeedtest.core.serverSelector.TestPoint;
 import com.example.recorderjava.R;
 
 public class MainActivity extends AppCompatActivity {
